@@ -1,0 +1,150 @@
+{
+  "artifacts": [],
+  "command": "my_main",
+  "experiment": {
+    "base_dir": "C:\\Users\\Taiyo\\Desktop\\pymarl\\pymarl",
+    "dependencies": [
+      "numpy==1.23.5",
+      "PyYAML==6.0.1",
+      "sacred==0.8.5",
+      "torch==1.13.1+cu117"
+    ],
+    "mainfile": "main.py",
+    "name": "pymarl",
+    "repositories": [
+      {
+        "commit": "b5a72b3ab6c89b4a492f5853c02c1ce3f9189ea4",
+        "dirty": false,
+        "url": "https://github.com/gingkg/pymarl.git"
+      },
+      {
+        "commit": "b5a72b3ab6c89b4a492f5853c02c1ce3f9189ea4",
+        "dirty": false,
+        "url": "https://github.com/gingkg/pymarl.git"
+      },
+      {
+        "commit": "b5a72b3ab6c89b4a492f5853c02c1ce3f9189ea4",
+        "dirty": false,
+        "url": "https://github.com/gingkg/pymarl.git"
+      }
+    ],
+    "sources": [
+      [
+        "main.py",
+        "_sources\\main_1e92d261df061107aaf315fe7e38db90.py"
+      ],
+      [
+        "run.py",
+        "_sources\\run_3d13dbdeea410bcf5bb87beb4266819c.py"
+      ],
+      [
+        "utils\\logging.py",
+        "_sources\\logging_1c1c5c83be7ac7b7b69888b3bcb127e3.py"
+      ]
+    ]
+  },
+  "fail_trace": [
+    "Traceback (most recent call last):\n",
+    "  File \"C:\\Users\\Taiyo\\.conda\\envs\\pymarl\\lib\\site-packages\\smac\\env\\starcraft2\\starcraft2.py\", line 420, in step\n    self._controller.actions(req_actions)\n",
+    "  File \"C:\\Users\\Taiyo\\.conda\\envs\\pymarl\\lib\\site-packages\\pysc2\\lib\\remote_controller.py\", line 81, in _skip_status\n    return func(self, *args, **kwargs)\n",
+    "  File \"C:\\Users\\Taiyo\\.conda\\envs\\pymarl\\lib\\site-packages\\pysc2\\lib\\remote_controller.py\", line 92, in _valid_status\n    raise protocol.ProtocolError(\n",
+    "pysc2.lib.protocol.ProtocolError: `actions` called while in state: Status.ended, valid: (Status.in_game)\n",
+    "\nDuring handling of the above exception, another exception occurred:\n\n",
+    "Traceback (most recent call last):\n",
+    "  File \"C:\\Users\\Taiyo\\.conda\\envs\\pymarl\\lib\\site-packages\\sacred\\config\\captured_function.py\", line 42, in captured_function\n    result = wrapped(*args, **kwargs)\n",
+    "  File \"C:\\Users\\Taiyo\\Desktop\\pymarl\\pymarl\\main.py\", line 37, in my_main\n    run(_run, config, _log)\n",
+    "  File \"C:\\Users\\Taiyo\\Desktop\\pymarl\\pymarl\\run.py\", line 51, in run\n    run_sequential(args=args, logger=logger)\n",
+    "  File \"C:\\Users\\Taiyo\\Desktop\\pymarl\\pymarl\\run.py\", line 261, in run_sequential\n    runner.run(test_mode=True)\n",
+    "  File \"C:\\Users\\Taiyo\\Desktop\\pymarl\\pymarl\\runners\\episode_runner.py\", line 73, in run\n    reward, terminated, env_info = self.env.step(actions[0])\n",
+    "  File \"C:\\Users\\Taiyo\\.conda\\envs\\pymarl\\lib\\site-packages\\smac\\env\\starcraft2\\starcraft2.py\", line 426, in step\n    self.full_restart()\n",
+    "  File \"C:\\Users\\Taiyo\\.conda\\envs\\pymarl\\lib\\site-packages\\smac\\env\\starcraft2\\starcraft2.py\", line 393, in full_restart\n    self._launch()\n",
+    "  File \"C:\\Users\\Taiyo\\.conda\\envs\\pymarl\\lib\\site-packages\\smac\\env\\starcraft2\\starcraft2.py\", line 300, in _launch\n    self._sc2_proc = self._run_config.start(window_size=self.window_size, want_rgb=False)\n",
+    "  File \"C:\\Users\\Taiyo\\.conda\\envs\\pymarl\\lib\\site-packages\\pysc2\\run_configs\\platforms.py\", line 83, in start\n    return sc_process.StarcraftProcess(\n",
+    "  File \"C:\\Users\\Taiyo\\.conda\\envs\\pymarl\\lib\\site-packages\\pysc2\\lib\\sc_process.py\", line 137, in __init__\n    self._controller = remote_controller.RemoteController(\n",
+    "  File \"C:\\Users\\Taiyo\\.conda\\envs\\pymarl\\lib\\site-packages\\pysc2\\lib\\remote_controller.py\", line 142, in __init__\n    sock = self._connect(host, port, proc, timeout_seconds)\n",
+    "  File \"C:\\Users\\Taiyo\\.conda\\envs\\pymarl\\lib\\site-packages\\pysc2\\lib\\stopwatch.py\", line 205, in _stopwatch\n    return func(*args, **kwargs)\n",
+    "  File \"C:\\Users\\Taiyo\\.conda\\envs\\pymarl\\lib\\site-packages\\pysc2\\lib\\remote_controller.py\", line 176, in _connect\n    raise ConnectError(\"Failed to connect to the SC2 websocket. Is it up?\")\n",
+    "pysc2.lib.remote_controller.ConnectError: Failed to connect to the SC2 websocket. Is it up?\n"
+  ],
+  "heartbeat": "2024-07-22T01:52:32.404928",
+  "host": {
+    "ENV": {},
+    "cpu": "AMD Ryzen 7 5700X3D 8-Core Processor",
+    "gpus": {
+      "driver_version": "556.12",
+      "gpus": [
+        {
+          "model": "NVIDIA GeForce RTX 4080 SUPER",
+          "persistence_mode": false,
+          "total_memory": 16376
+        }
+      ]
+    },
+    "hostname": "Taiyopen",
+    "os": [
+      "Windows",
+      "Windows-10-10.0.22631-SP0"
+    ],
+    "python_version": "3.10.14"
+  },
+  "meta": {
+    "command": "my_main",
+    "config_updates": {
+      "env_args": {
+        "map_name": "1c3s5z",
+        "seed": 1
+      },
+      "is_save_buffer": true,
+      "local_results_path": "./tmp_DD/sc2_1c3s5z/results/",
+      "save_buffer_id": 0,
+      "save_buffer_size": 20000,
+      "save_model": true,
+      "save_model_interval": 200000,
+      "t_max": 2100000,
+      "use_tensorboard": true
+    },
+    "named_configs": [],
+    "options": {
+      "--beat-interval": null,
+      "--capture": null,
+      "--comment": null,
+      "--debug": false,
+      "--enforce_clean": false,
+      "--file_storage": null,
+      "--force": false,
+      "--help": false,
+      "--id": null,
+      "--loglevel": null,
+      "--mongo_db": null,
+      "--name": null,
+      "--pdb": false,
+      "--print-config": false,
+      "--priority": null,
+      "--queue": false,
+      "--s3": null,
+      "--sql": null,
+      "--tiny_db": null,
+      "--unobserved": false,
+      "COMMAND": null,
+      "UPDATE": [
+        "env_args.map_name=1c3s5z",
+        "env_args.seed=1",
+        "local_results_path=./tmp_DD/sc2_1c3s5z/results/",
+        "save_model=True",
+        "use_tensorboard=True",
+        "save_model_interval=200000",
+        "t_max=2100000",
+        "is_save_buffer=True",
+        "save_buffer_size=20000",
+        "save_buffer_id=0"
+      ],
+      "help": false,
+      "with": true
+    }
+  },
+  "resources": [],
+  "result": null,
+  "start_time": "2024-07-21T23:29:47.715178",
+  "status": "FAILED",
+  "stop_time": "2024-07-22T01:52:32.422475"
+}

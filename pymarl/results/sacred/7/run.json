@@ -1,0 +1,127 @@
+{
+  "artifacts": [],
+  "command": "my_main",
+  "experiment": {
+    "base_dir": "C:\\Users\\Taiyo\\Desktop\\pymarl\\pymarl",
+    "dependencies": [
+      "numpy==2.0.1",
+      "PyYAML==6.0.1",
+      "sacred==0.8.5",
+      "torch==1.13.1+cu117"
+    ],
+    "mainfile": "main.py",
+    "name": "pymarl",
+    "repositories": [
+      {
+        "commit": "b5a72b3ab6c89b4a492f5853c02c1ce3f9189ea4",
+        "dirty": false,
+        "url": "https://github.com/gingkg/pymarl.git"
+      },
+      {
+        "commit": "b5a72b3ab6c89b4a492f5853c02c1ce3f9189ea4",
+        "dirty": false,
+        "url": "https://github.com/gingkg/pymarl.git"
+      },
+      {
+        "commit": "b5a72b3ab6c89b4a492f5853c02c1ce3f9189ea4",
+        "dirty": false,
+        "url": "https://github.com/gingkg/pymarl.git"
+      }
+    ],
+    "sources": [
+      [
+        "main.py",
+        "_sources\\main_1e92d261df061107aaf315fe7e38db90.py"
+      ],
+      [
+        "run.py",
+        "_sources\\run_3d13dbdeea410bcf5bb87beb4266819c.py"
+      ],
+      [
+        "utils\\logging.py",
+        "_sources\\logging_1c1c5c83be7ac7b7b69888b3bcb127e3.py"
+      ]
+    ]
+  },
+  "fail_trace": [
+    "Traceback (most recent call last):\n",
+    "  File \"C:\\Users\\Taiyo\\.conda\\envs\\pymarl\\lib\\site-packages\\sacred\\config\\captured_function.py\", line 42, in captured_function\n    result = wrapped(*args, **kwargs)\n",
+    "  File \"C:\\Users\\Taiyo\\Desktop\\pymarl\\pymarl\\main.py\", line 37, in my_main\n    run(_run, config, _log)\n",
+    "  File \"C:\\Users\\Taiyo\\Desktop\\pymarl\\pymarl\\run.py\", line 51, in run\n    run_sequential(args=args, logger=logger)\n",
+    "  File \"C:\\Users\\Taiyo\\Desktop\\pymarl\\pymarl\\run.py\", line 298, in run_sequential\n    episode_sample = cp.deepcopy(buffer.sample(1))\n",
+    "  File \"C:\\Users\\Taiyo\\Desktop\\pymarl\\pymarl\\components\\episode_buffer.py\", line 247, in sample\n    return self[ep_ids]\n",
+    "  File \"C:\\Users\\Taiyo\\Desktop\\pymarl\\pymarl\\components\\episode_buffer.py\", line 155, in __getitem__\n    new_data.transition_data[k] = v[item]\n",
+    "RuntimeError: Could not infer dtype of numpy.int32\n"
+  ],
+  "heartbeat": "2024-07-21T23:24:52.601351",
+  "host": {
+    "ENV": {},
+    "cpu": "AMD Ryzen 7 5700X3D 8-Core Processor",
+    "gpus": {
+      "driver_version": "556.12",
+      "gpus": [
+        {
+          "model": "NVIDIA GeForce RTX 4080 SUPER",
+          "persistence_mode": false,
+          "total_memory": 16376
+        }
+      ]
+    },
+    "hostname": "Taiyopen",
+    "os": [
+      "Windows",
+      "Windows-10-10.0.22631-SP0"
+    ],
+    "python_version": "3.10.14"
+  },
+  "meta": {
+    "command": "my_main",
+    "config_updates": {
+      "epsilon_finish": 1.0,
+      "local_results_path": "./tmp_DD/sc2_bane_vs_bane/results/",
+      "save_model": true,
+      "save_model_interval": 200000,
+      "t_max": 210000,
+      "use_tensorboard": true
+    },
+    "named_configs": [],
+    "options": {
+      "--beat-interval": null,
+      "--capture": null,
+      "--comment": null,
+      "--debug": false,
+      "--enforce_clean": false,
+      "--file_storage": null,
+      "--force": false,
+      "--help": false,
+      "--id": null,
+      "--loglevel": null,
+      "--mongo_db": null,
+      "--name": null,
+      "--pdb": false,
+      "--print-config": false,
+      "--priority": null,
+      "--queue": false,
+      "--s3": null,
+      "--sql": null,
+      "--tiny_db": null,
+      "--unobserved": false,
+      "COMMAND": null,
+      "UPDATE": [
+        "local_results_path=./tmp_DD/sc2_bane_vs_bane/results/",
+        "save_model=True",
+        "use_tensorboard=True",
+        "save_model_interval=200000",
+        "t_max=210000",
+        "epsilon_finish=1.0"
+      ],
+      "help": false,
+      "with": true
+    }
+  },
+  "resources": [],
+  "result": null,
+  "start_time": "2024-07-21T23:24:51.174289",
+  "status": "FAILED",
+  "stop_time": "2024-07-21T23:24:52.604354"
+}

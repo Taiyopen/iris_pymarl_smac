@@ -1,0 +1,4469 @@
+{
+  "action_pair_0_0": [
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.04447284713387489
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.04447284713387489
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              7.911552906036377
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 7.911552906036377
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              8.046743392944336
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 8.046743392944336
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              7.922484397888184
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 7.922484397888184
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              8.004854202270508
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 8.004854202270508
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              7.973908424377441
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 7.973908424377441
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              8.031499862670898
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 8.031499862670898
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              7.563389778137207
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 7.563389778137207
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              7.925245761871338
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 7.925245761871338
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              8.203063011169434
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 8.203063011169434
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              8.147126197814941
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 8.147126197814941
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              7.986882209777832
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 7.986882209777832
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              7.969011306762695
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 7.969011306762695
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              7.962165355682373
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 7.962165355682373
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              8.05622386932373
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 8.05622386932373
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              8.007831573486328
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 8.007831573486328
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              7.969670295715332
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 7.969670295715332
+    }
+  ],
+  "action_pair_0_0_T": [
+    32,
+    1032,
+    2032,
+    3032,
+    4032,
+    5032,
+    6032,
+    7032,
+    8032,
+    9032,
+    10032,
+    11032,
+    12032,
+    13032,
+    14032,
+    15032,
+    16032
+  ],
+  "action_pair_0_1": [
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.0512644425034523
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.0512644425034523
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.883163452148438
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.883163452148438
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.931746482849121
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.931746482849121
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.971476554870605
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.971476554870605
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.933786392211914
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.933786392211914
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.605775833129883
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.605775833129883
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.226351737976074
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.226351737976074
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.979132652282715
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.979132652282715
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.90616226196289
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.90616226196289
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.022655487060547
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.022655487060547
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.05254077911377
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.05254077911377
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.996125221252441
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.996125221252441
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.991755485534668
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.991755485534668
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.086915969848633
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.086915969848633
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.015512466430664
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.015512466430664
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.078442573547363
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.078442573547363
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.830513000488281
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.830513000488281
+    }
+  ],
+  "action_pair_0_1_T": [
+    32,
+    1032,
+    2032,
+    3032,
+    4032,
+    5032,
+    6032,
+    7032,
+    8032,
+    9032,
+    10032,
+    11032,
+    12032,
+    13032,
+    14032,
+    15032,
+    16032
+  ],
+  "action_pair_0_2": [
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.03878620266914368
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.03878620266914368
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.50501823425293
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.50501823425293
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.988848686218262
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.988848686218262
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.056941032409668
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.056941032409668
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.885660171508789
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.885660171508789
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.464064598083496
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.464064598083496
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.208516120910645
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.208516120910645
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.94628620147705
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.94628620147705
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.915839195251465
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.915839195251465
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.014461517333984
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.014461517333984
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.056756973266602
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.056756973266602
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.991155624389648
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.991155624389648
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.982779502868652
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.982779502868652
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.051294326782227
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.051294326782227
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.077840805053711
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.077840805053711
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.076720237731934
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.076720237731934
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.84306526184082
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.84306526184082
+    }
+  ],
+  "action_pair_0_2_T": [
+    32,
+    1032,
+    2032,
+    3032,
+    4032,
+    5032,
+    6032,
+    7032,
+    8032,
+    9032,
+    10032,
+    11032,
+    12032,
+    13032,
+    14032,
+    15032,
+    16032
+  ],
+  "action_pair_1_0": [
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.04691179096698761
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.04691179096698761
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.368951797485352
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.368951797485352
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.209986686706543
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.209986686706543
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.618900299072266
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.618900299072266
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.122726440429688
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.122726440429688
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.856399536132812
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.856399536132812
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.227933883666992
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.227933883666992
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.729276657104492
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.729276657104492
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.984426498413086
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.984426498413086
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.876204490661621
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.876204490661621
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.021549224853516
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.021549224853516
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.996686935424805
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.996686935424805
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.006072044372559
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.006072044372559
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.024982452392578
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.024982452392578
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.924386024475098
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.924386024475098
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.110084533691406
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.110084533691406
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.988720893859863
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.988720893859863
+    }
+  ],
+  "action_pair_1_0_T": [
+    32,
+    1032,
+    2032,
+    3032,
+    4032,
+    5032,
+    6032,
+    7032,
+    8032,
+    9032,
+    10032,
+    11032,
+    12032,
+    13032,
+    14032,
+    15032,
+    16032
+  ],
+  "action_pair_1_1": [
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.05373946949839592
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.05373946949839592
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.14398902654647827
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.14398902654647827
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              0.11830127239227295
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 0.11830127239227295
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.1789897084236145
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.1789897084236145
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.0258939266204834
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.0258939266204834
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              0.19662582874298096
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 0.19662582874298096
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.06754124164581299
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.06754124164581299
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.06235706806182861
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.06235706806182861
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.047678589820861816
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.047678589820861816
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              0.06317901611328125
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 0.06317901611328125
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.05954629182815552
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.05954629182815552
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              0.013116836547851562
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 0.013116836547851562
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.048621296882629395
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.048621296882629395
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              0.04115426540374756
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 0.04115426540374756
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.045485496520996094
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.045485496520996094
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              0.019701361656188965
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 0.019701361656188965
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              0.010051608085632324
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 0.010051608085632324
+    }
+  ],
+  "action_pair_1_1_T": [
+    32,
+    1032,
+    2032,
+    3032,
+    4032,
+    5032,
+    6032,
+    7032,
+    8032,
+    9032,
+    10032,
+    11032,
+    12032,
+    13032,
+    14032,
+    15032,
+    16032
+  ],
+  "action_pair_1_2": [
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.04115603119134903
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.04115603119134903
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.12363630533218384
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.12363630533218384
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              0.14719939231872559
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 0.14719939231872559
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.19221919775009155
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.19221919775009155
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.020516157150268555
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.020516157150268555
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              0.2420777678489685
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 0.2420777678489685
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.07025176286697388
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.07025176286697388
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.044866979122161865
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.044866979122161865
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.05301034450531006
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.05301034450531006
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              0.06449699401855469
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 0.06449699401855469
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.0336989164352417
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.0336989164352417
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              0.018361568450927734
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 0.018361568450927734
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.04756426811218262
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.04756426811218262
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              0.05510818958282471
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 0.05510818958282471
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.0820765495300293
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.0820765495300293
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              0.005599617958068848
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 0.005599617958068848
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              0.009557723999023438
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 0.009557723999023438
+    }
+  ],
+  "action_pair_1_2_T": [
+    32,
+    1032,
+    2032,
+    3032,
+    4032,
+    5032,
+    6032,
+    7032,
+    8032,
+    9032,
+    10032,
+    11032,
+    12032,
+    13032,
+    14032,
+    15032,
+    16032
+  ],
+  "action_pair_2_0": [
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.03658787161111832
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.03658787161111832
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.467835426330566
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.467835426330566
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.265068054199219
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.265068054199219
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.270414352416992
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.270414352416992
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.101675033569336
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.101675033569336
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.61607551574707
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.61607551574707
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.245906829833984
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.245906829833984
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.578792572021484
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.578792572021484
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.992911338806152
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.992911338806152
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.879952430725098
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.879952430725098
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.009575843811035
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.009575843811035
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.986946105957031
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.986946105957031
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.004806518554688
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.004806518554688
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.01472282409668
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.01472282409668
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.96953010559082
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.96953010559082
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -12.103992462158203
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -12.103992462158203
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -11.980298042297363
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -11.980298042297363
+    }
+  ],
+  "action_pair_2_0_T": [
+    32,
+    1032,
+    2032,
+    3032,
+    4032,
+    5032,
+    6032,
+    7032,
+    8032,
+    9032,
+    10032,
+    11032,
+    12032,
+    13032,
+    14032,
+    15032,
+    16032
+  ],
+  "action_pair_2_1": [
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.04333365708589554
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.04333365708589554
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.11851972341537476
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.11851972341537476
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              0.12823569774627686
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 0.12823569774627686
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.13524597883224487
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.13524597883224487
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.0168837308883667
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.0168837308883667
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              0.32483333349227905
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 0.32483333349227905
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.07068800926208496
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.07068800926208496
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.0377199649810791
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.0377199649810791
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.05720114707946777
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.05720114707946777
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              0.05768251419067383
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 0.05768251419067383
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.03477299213409424
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.03477299213409424
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              0.015653133392333984
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 0.015653133392333984
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.04374039173126221
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.04374039173126221
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              0.03676891326904297
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 0.03676891326904297
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.07439494132995605
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.07439494132995605
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              0.01281893253326416
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 0.01281893253326416
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              0.001503586769104004
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 0.001503586769104004
+    }
+  ],
+  "action_pair_2_1_T": [
+    32,
+    1032,
+    2032,
+    3032,
+    4032,
+    5032,
+    6032,
+    7032,
+    8032,
+    9032,
+    10032,
+    11032,
+    12032,
+    13032,
+    14032,
+    15032,
+    16032
+  ],
+  "action_pair_2_2": [
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.03071121871471405
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.03071121871471405
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.10498219728469849
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.10498219728469849
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              0.11735081672668457
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 0.11735081672668457
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.1539669632911682
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.1539669632911682
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.017099738121032715
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.017099738121032715
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              0.31994783878326416
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 0.31994783878326416
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.07198506593704224
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.07198506593704224
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.022877514362335205
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.022877514362335205
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.05201762914657593
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.05201762914657593
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              0.04901123046875
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 0.04901123046875
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.032922565937042236
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.032922565937042236
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              0.0166013240814209
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 0.0166013240814209
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.045926570892333984
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.045926570892333984
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              0.045754075050354004
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": 0.045754075050354004
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.0932016372680664
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.0932016372680664
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.0004999637603759766
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.0004999637603759766
+    },
+    {
+      "base": {
+        "dtype": "float32",
+        "py/object": "numpy.ndarray",
+        "values": [
+          [
+            [
+              -0.0006608963012695312
+            ]
+          ]
+        ]
+      },
+      "dtype": "float32",
+      "py/object": "numpy.ndarray",
+      "shape": [],
+      "values": -0.0006608963012695312
+    }
+  ],
+  "action_pair_2_2_T": [
+    32,
+    1032,
+    2032,
+    3032,
+    4032,
+    5032,
+    6032,
+    7032,
+    8032,
+    9032,
+    10032,
+    11032,
+    12032,
+    13032,
+    14032,
+    15032,
+    16032
+  ],
+  "battle_won_mean": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "battle_won_mean_T": [
+    1,
+    1001,
+    2001,
+    3001,
+    4001,
+    5001,
+    6001,
+    7001,
+    8001,
+    9001,
+    10001,
+    11001,
+    12001,
+    13001,
+    14001,
+    15001,
+    16001
+  ],
+  "ep_length_mean": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "ep_length_mean_T": [
+    1,
+    1001,
+    2001,
+    3001,
+    4001,
+    5001,
+    6001,
+    7001,
+    8001,
+    9001,
+    10001,
+    11001,
+    12001,
+    13001,
+    14001,
+    15001,
+    16001
+  ],
+  "episode": [
+    1000,
+    2000,
+    3000,
+    4000,
+    5000,
+    6000,
+    7000,
+    8000,
+    9000,
+    10000,
+    11000,
+    12000,
+    13000,
+    14000,
+    15000,
+    16000
+  ],
+  "episode_T": [
+    1000,
+    2000,
+    3000,
+    4000,
+    5000,
+    6000,
+    7000,
+    8000,
+    9000,
+    10000,
+    11000,
+    12000,
+    13000,
+    14000,
+    15000,
+    16000
+  ],
+  "epsilon": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "epsilon_T": [
+    1,
+    1001,
+    2001,
+    3001,
+    4001,
+    5001,
+    6001,
+    7001,
+    8001,
+    9001,
+    10001,
+    11001,
+    12001,
+    13001,
+    14001,
+    15001,
+    16001
+  ],
+  "grad_norm": [
+    {
+      "py/reduce": [
+        {
+          "py/function": "torch._utils._rebuild_tensor_v2"
+        },
+        {
+          "py/tuple": [
+            {
+              "py/reduce": [
+                {
+                  "py/function": "torch.storage._load_from_bytes"
+                },
+                {
+                  "py/tuple": [
+                    {
+                      "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYDQAAADIxODk1NDc3MzM2MzJxAlgGAAAAY3VkYTowcQNLAU50cQRRLoACXXEAWA0AAAAyMTg5NTQ3NzMzNjMycQFhLgEAAAAAAAAAg8bgQQ=="
+                    }
+                  ]
+                }
+              ]
+            },
+            0,
+            {
+              "py/tuple": []
+            },
+            {
+              "py/tuple": []
+            },
+            false,
+            {
+              "py/reduce": [
+                {
+                  "py/type": "collections.OrderedDict"
+                },
+                {
+                  "py/tuple": []
+                },
+                null,
+                null,
+                {
+                  "py/tuple": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "py/reduce": [
+        {
+          "py/function": "torch._utils._rebuild_tensor_v2"
+        },
+        {
+          "py/tuple": [
+            {
+              "py/reduce": [
+                {
+                  "py/function": "torch.storage._load_from_bytes"
+                },
+                {
+                  "py/tuple": [
+                    {
+                      "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYDQAAADIxODk1NDc3NTI0NDhxAlgGAAAAY3VkYTowcQNLAU50cQRRLoACXXEAWA0AAAAyMTg5NTQ3NzUyNDQ4cQFhLgEAAAAAAAAAOg2EQQ=="
+                    }
+                  ]
+                }
+              ]
+            },
+            0,
+            {
+              "py/tuple": []
+            },
+            {
+              "py/tuple": []
+            },
+            false,
+            {
+              "py/reduce": [
+                {
+                  "py/type": "collections.OrderedDict"
+                },
+                {
+                  "py/tuple": []
+                },
+                null,
+                null,
+                {
+                  "py/tuple": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "py/reduce": [
+        {
+          "py/function": "torch._utils._rebuild_tensor_v2"
+        },
+        {
+          "py/tuple": [
+            {
+              "py/reduce": [
+                {
+                  "py/function": "torch.storage._load_from_bytes"
+                },
+                {
+                  "py/tuple": [
+                    {
+                      "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYDQAAADIxODk1NDc3NTQ5NDRxAlgGAAAAY3VkYTowcQNLAU50cQRRLoACXXEAWA0AAAAyMTg5NTQ3NzU0OTQ0cQFhLgEAAAAAAAAA9uBNQQ=="
+                    }
+                  ]
+                }
+              ]
+            },
+            0,
+            {
+              "py/tuple": []
+            },
+            {
+              "py/tuple": []
+            },
+            false,
+            {
+              "py/reduce": [
+                {
+                  "py/type": "collections.OrderedDict"
+                },
+                {
+                  "py/tuple": []
+                },
+                null,
+                null,
+                {
+                  "py/tuple": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "py/reduce": [
+        {
+          "py/function": "torch._utils._rebuild_tensor_v2"
+        },
+        {
+          "py/tuple": [
+            {
+              "py/reduce": [
+                {
+                  "py/function": "torch.storage._load_from_bytes"
+                },
+                {
+                  "py/tuple": [
+                    {
+                      "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYDQAAADIxODk1NDc3NTQ3NTJxAlgGAAAAY3VkYTowcQNLAU50cQRRLoACXXEAWA0AAAAyMTg5NTQ3NzU0NzUycQFhLgEAAAAAAAAAtahtQQ=="
+                    }
+                  ]
+                }
+              ]
+            },
+            0,
+            {
+              "py/tuple": []
+            },
+            {
+              "py/tuple": []
+            },
+            false,
+            {
+              "py/reduce": [
+                {
+                  "py/type": "collections.OrderedDict"
+                },
+                {
+                  "py/tuple": []
+                },
+                null,
+                null,
+                {
+                  "py/tuple": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "py/reduce": [
+        {
+          "py/function": "torch._utils._rebuild_tensor_v2"
+        },
+        {
+          "py/tuple": [
+            {
+              "py/reduce": [
+                {
+                  "py/function": "torch.storage._load_from_bytes"
+                },
+                {
+                  "py/tuple": [
+                    {
+                      "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYDQAAADIxODk1NDc3NTUxMzZxAlgGAAAAY3VkYTowcQNLAU50cQRRLoACXXEAWA0AAAAyMTg5NTQ3NzU1MTM2cQFhLgEAAAAAAAAA0UicPw=="
+                    }
+                  ]
+                }
+              ]
+            },
+            0,
+            {
+              "py/tuple": []
+            },
+            {
+              "py/tuple": []
+            },
+            false,
+            {
+              "py/reduce": [
+                {
+                  "py/type": "collections.OrderedDict"
+                },
+                {
+                  "py/tuple": []
+                },
+                null,
+                null,
+                {
+                  "py/tuple": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "py/reduce": [
+        {
+          "py/function": "torch._utils._rebuild_tensor_v2"
+        },
+        {
+          "py/tuple": [
+            {
+              "py/reduce": [
+                {
+                  "py/function": "torch.storage._load_from_bytes"
+                },
+                {
+                  "py/tuple": [
+                    {
+                      "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYDQAAADIxODg2NjU1NDM4NTZxAlgGAAAAY3VkYTowcQNLAU50cQRRLoACXXEAWA0AAAAyMTg4NjY1NTQzODU2cQFhLgEAAAAAAAAAem1MQQ=="
+                    }
+                  ]
+                }
+              ]
+            },
+            0,
+            {
+              "py/tuple": []
+            },
+            {
+              "py/tuple": []
+            },
+            false,
+            {
+              "py/reduce": [
+                {
+                  "py/type": "collections.OrderedDict"
+                },
+                {
+                  "py/tuple": []
+                },
+                null,
+                null,
+                {
+                  "py/tuple": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "py/reduce": [
+        {
+          "py/function": "torch._utils._rebuild_tensor_v2"
+        },
+        {
+          "py/tuple": [
+            {
+              "py/reduce": [
+                {
+                  "py/function": "torch.storage._load_from_bytes"
+                },
+                {
+                  "py/tuple": [
+                    {
+                      "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYDQAAADIxODg2NjU1NTkzMTJxAlgGAAAAY3VkYTowcQNLAU50cQRRLoACXXEAWA0AAAAyMTg4NjY1NTU5MzEycQFhLgEAAAAAAAAAGL4GQA=="
+                    }
+                  ]
+                }
+              ]
+            },
+            0,
+            {
+              "py/tuple": []
+            },
+            {
+              "py/tuple": []
+            },
+            false,
+            {
+              "py/reduce": [
+                {
+                  "py/type": "collections.OrderedDict"
+                },
+                {
+                  "py/tuple": []
+                },
+                null,
+                null,
+                {
+                  "py/tuple": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "py/reduce": [
+        {
+          "py/function": "torch._utils._rebuild_tensor_v2"
+        },
+        {
+          "py/tuple": [
+            {
+              "py/reduce": [
+                {
+                  "py/function": "torch.storage._load_from_bytes"
+                },
+                {
+                  "py/tuple": [
+                    {
+                      "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYDQAAADIxODg2NjU1NjU4NDBxAlgGAAAAY3VkYTowcQNLAU50cQRRLoACXXEAWA0AAAAyMTg4NjY1NTY1ODQwcQFhLgEAAAAAAAAAcme4QA=="
+                    }
+                  ]
+                }
+              ]
+            },
+            0,
+            {
+              "py/tuple": []
+            },
+            {
+              "py/tuple": []
+            },
+            false,
+            {
+              "py/reduce": [
+                {
+                  "py/type": "collections.OrderedDict"
+                },
+                {
+                  "py/tuple": []
+                },
+                null,
+                null,
+                {
+                  "py/tuple": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "py/reduce": [
+        {
+          "py/function": "torch._utils._rebuild_tensor_v2"
+        },
+        {
+          "py/tuple": [
+            {
+              "py/reduce": [
+                {
+                  "py/function": "torch.storage._load_from_bytes"
+                },
+                {
+                  "py/tuple": [
+                    {
+                      "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYDQAAADIxODg2NjU1Njg3MjBxAlgGAAAAY3VkYTowcQNLAU50cQRRLoACXXEAWA0AAAAyMTg4NjY1NTY4NzIwcQFhLgEAAAAAAAAAF8ofQA=="
+                    }
+                  ]
+                }
+              ]
+            },
+            0,
+            {
+              "py/tuple": []
+            },
+            {
+              "py/tuple": []
+            },
+            false,
+            {
+              "py/reduce": [
+                {
+                  "py/type": "collections.OrderedDict"
+                },
+                {
+                  "py/tuple": []
+                },
+                null,
+                null,
+                {
+                  "py/tuple": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "py/reduce": [
+        {
+          "py/function": "torch._utils._rebuild_tensor_v2"
+        },
+        {
+          "py/tuple": [
+            {
+              "py/reduce": [
+                {
+                  "py/function": "torch.storage._load_from_bytes"
+                },
+                {
+                  "py/tuple": [
+                    {
+                      "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYDQAAADIxODg2NjU1Njc0NzJxAlgGAAAAY3VkYTowcQNLAU50cQRRLoACXXEAWA0AAAAyMTg4NjY1NTY3NDcycQFhLgEAAAAAAAAA0wMQQA=="
+                    }
+                  ]
+                }
+              ]
+            },
+            0,
+            {
+              "py/tuple": []
+            },
+            {
+              "py/tuple": []
+            },
+            false,
+            {
+              "py/reduce": [
+                {
+                  "py/type": "collections.OrderedDict"
+                },
+                {
+                  "py/tuple": []
+                },
+                null,
+                null,
+                {
+                  "py/tuple": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "py/reduce": [
+        {
+          "py/function": "torch._utils._rebuild_tensor_v2"
+        },
+        {
+          "py/tuple": [
+            {
+              "py/reduce": [
+                {
+                  "py/function": "torch.storage._load_from_bytes"
+                },
+                {
+                  "py/tuple": [
+                    {
+                      "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYDQAAADIxODg2NjU1NzM5MDRxAlgGAAAAY3VkYTowcQNLAU50cQRRLoACXXEAWA0AAAAyMTg4NjY1NTczOTA0cQFhLgEAAAAAAAAAJfQYQA=="
+                    }
+                  ]
+                }
+              ]
+            },
+            0,
+            {
+              "py/tuple": []
+            },
+            {
+              "py/tuple": []
+            },
+            false,
+            {
+              "py/reduce": [
+                {
+                  "py/type": "collections.OrderedDict"
+                },
+                {
+                  "py/tuple": []
+                },
+                null,
+                null,
+                {
+                  "py/tuple": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "py/reduce": [
+        {
+          "py/function": "torch._utils._rebuild_tensor_v2"
+        },
+        {
+          "py/tuple": [
+            {
+              "py/reduce": [
+                {
+                  "py/function": "torch.storage._load_from_bytes"
+                },
+                {
+                  "py/tuple": [
+                    {
+                      "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYDQAAADIxODg2NjU1NzY0OTZxAlgGAAAAY3VkYTowcQNLAU50cQRRLoACXXEAWA0AAAAyMTg4NjY1NTc2NDk2cQFhLgEAAAAAAAAADo4zPw=="
+                    }
+                  ]
+                }
+              ]
+            },
+            0,
+            {
+              "py/tuple": []
+            },
+            {
+              "py/tuple": []
+            },
+            false,
+            {
+              "py/reduce": [
+                {
+                  "py/type": "collections.OrderedDict"
+                },
+                {
+                  "py/tuple": []
+                },
+                null,
+                null,
+                {
+                  "py/tuple": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "py/reduce": [
+        {
+          "py/function": "torch._utils._rebuild_tensor_v2"
+        },
+        {
+          "py/tuple": [
+            {
+              "py/reduce": [
+                {
+                  "py/function": "torch.storage._load_from_bytes"
+                },
+                {
+                  "py/tuple": [
+                    {
+                      "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYDQAAADIxODg2NjU1NzM2MTZxAlgGAAAAY3VkYTowcQNLAU50cQRRLoACXXEAWA0AAAAyMTg4NjY1NTczNjE2cQFhLgEAAAAAAAAAU90HQA=="
+                    }
+                  ]
+                }
+              ]
+            },
+            0,
+            {
+              "py/tuple": []
+            },
+            {
+              "py/tuple": []
+            },
+            false,
+            {
+              "py/reduce": [
+                {
+                  "py/type": "collections.OrderedDict"
+                },
+                {
+                  "py/tuple": []
+                },
+                null,
+                null,
+                {
+                  "py/tuple": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "py/reduce": [
+        {
+          "py/function": "torch._utils._rebuild_tensor_v2"
+        },
+        {
+          "py/tuple": [
+            {
+              "py/reduce": [
+                {
+                  "py/function": "torch.storage._load_from_bytes"
+                },
+                {
+                  "py/tuple": [
+                    {
+                      "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYDQAAADIxODg2NjU1NzQwMDBxAlgGAAAAY3VkYTowcQNLAU50cQRRLoACXXEAWA0AAAAyMTg4NjY1NTc0MDAwcQFhLgEAAAAAAAAABiIWQA=="
+                    }
+                  ]
+                }
+              ]
+            },
+            0,
+            {
+              "py/tuple": []
+            },
+            {
+              "py/tuple": []
+            },
+            false,
+            {
+              "py/reduce": [
+                {
+                  "py/type": "collections.OrderedDict"
+                },
+                {
+                  "py/tuple": []
+                },
+                null,
+                null,
+                {
+                  "py/tuple": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "py/reduce": [
+        {
+          "py/function": "torch._utils._rebuild_tensor_v2"
+        },
+        {
+          "py/tuple": [
+            {
+              "py/reduce": [
+                {
+                  "py/function": "torch.storage._load_from_bytes"
+                },
+                {
+                  "py/tuple": [
+                    {
+                      "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYDQAAADIxODg2NjU1ODI1NDRxAlgGAAAAY3VkYTowcQNLAU50cQRRLoACXXEAWA0AAAAyMTg4NjY1NTgyNTQ0cQFhLgEAAAAAAAAAviSPQA=="
+                    }
+                  ]
+                }
+              ]
+            },
+            0,
+            {
+              "py/tuple": []
+            },
+            {
+              "py/tuple": []
+            },
+            false,
+            {
+              "py/reduce": [
+                {
+                  "py/type": "collections.OrderedDict"
+                },
+                {
+                  "py/tuple": []
+                },
+                null,
+                null,
+                {
+                  "py/tuple": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "py/reduce": [
+        {
+          "py/function": "torch._utils._rebuild_tensor_v2"
+        },
+        {
+          "py/tuple": [
+            {
+              "py/reduce": [
+                {
+                  "py/function": "torch.storage._load_from_bytes"
+                },
+                {
+                  "py/tuple": [
+                    {
+                      "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYDQAAADIxODg2NjU1Nzg3MDRxAlgGAAAAY3VkYTowcQNLAU50cQRRLoACXXEAWA0AAAAyMTg4NjY1NTc4NzA0cQFhLgEAAAAAAAAA8PN+Pw=="
+                    }
+                  ]
+                }
+              ]
+            },
+            0,
+            {
+              "py/tuple": []
+            },
+            {
+              "py/tuple": []
+            },
+            false,
+            {
+              "py/reduce": [
+                {
+                  "py/type": "collections.OrderedDict"
+                },
+                {
+                  "py/tuple": []
+                },
+                null,
+                null,
+                {
+                  "py/tuple": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "py/reduce": [
+        {
+          "py/function": "torch._utils._rebuild_tensor_v2"
+        },
+        {
+          "py/tuple": [
+            {
+              "py/reduce": [
+                {
+                  "py/function": "torch.storage._load_from_bytes"
+                },
+                {
+                  "py/tuple": [
+                    {
+                      "py/b64": "gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAAAGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAAaW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3JhZ2UKcQFYDQAAADIxODg2NjU1ODEyMDBxAlgGAAAAY3VkYTowcQNLAU50cQRRLoACXXEAWA0AAAAyMTg4NjY1NTgxMjAwcQFhLgEAAAAAAAAAAMEDQA=="
+                    }
+                  ]
+                }
+              ]
+            },
+            0,
+            {
+              "py/tuple": []
+            },
+            {
+              "py/tuple": []
+            },
+            false,
+            {
+              "py/reduce": [
+                {
+                  "py/type": "collections.OrderedDict"
+                },
+                {
+                  "py/tuple": []
+                },
+                null,
+                null,
+                {
+                  "py/tuple": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "grad_norm_T": [
+    32,
+    1032,
+    2032,
+    3032,
+    4032,
+    5032,
+    6032,
+    7032,
+    8032,
+    9032,
+    10032,
+    11032,
+    12032,
+    13032,
+    14032,
+    15032,
+    16032
+  ],
+  "hit_prob": [
+    0.328125,
+    0.328125,
+    0.40625,
+    0.296875,
+    0.265625,
+    0.25,
+    0.3125,
+    0.3125,
+    0.28125,
+    0.34375,
+    0.359375,
+    0.34375,
+    0.328125,
+    0.359375,
+    0.328125,
+    0.4375,
+    0.34375
+  ],
+  "hit_prob_T": [
+    32,
+    1032,
+    2032,
+    3032,
+    4032,
+    5032,
+    6032,
+    7032,
+    8032,
+    9032,
+    10032,
+    11032,
+    12032,
+    13032,
+    14032,
+    15032,
+    16032
+  ],
+  "loss": [
+    75.90277099609375,
+    0.1523684859275818,
+    0.10909217596054077,
+    0.17732283473014832,
+    0.004562483634799719,
+    0.10552646219730377,
+    0.005486489739269018,
+    0.04553888738155365,
+    0.004304380156099796,
+    0.005388165358453989,
+    0.008963406085968018,
+    0.0003350481274537742,
+    0.0021131886169314384,
+    0.0036248783580958843,
+    0.014900090172886848,
+    0.0012909653596580029,
+    0.004093300551176071
+  ],
+  "loss_T": [
+    32,
+    1032,
+    2032,
+    3032,
+    4032,
+    5032,
+    6032,
+    7032,
+    8032,
+    9032,
+    10032,
+    11032,
+    12032,
+    13032,
+    14032,
+    15032,
+    16032
+  ],
+  "q_taken_mean": [
+    0.059660088270902634,
+    -2.2855594158172607,
+    -1.4906072616577148,
+    -2.4216301441192627,
+    -2.190051317214966,
+    -1.640899419784546,
+    -1.2300963401794434,
+    -2.7300539016723633,
+    -2.355290412902832,
+    -3.136892318725586,
+    -2.7774057388305664,
+    -2.133915901184082,
+    -2.4185879230499268,
+    -2.340329170227051,
+    -1.8860208988189697,
+    -1.7600022554397583,
+    -3.6456031799316406
+  ],
+  "q_taken_mean_T": [
+    32,
+    1032,
+    2032,
+    3032,
+    4032,
+    5032,
+    6032,
+    7032,
+    8032,
+    9032,
+    10032,
+    11032,
+    12032,
+    13032,
+    14032,
+    15032,
+    16032
+  ],
+  "return_mean": [
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": -12.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": -4.792
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": -4.504
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": -4.476
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": -4.044
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": -4.484
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": -4.796
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": -4.54
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": -4.088
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": -4.832
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": -4.352
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": -4.796
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": -4.676
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": -4.396
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": -4.932
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": -4.304
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": -4.376
+    }
+  ],
+  "return_mean_T": [
+    1,
+    1001,
+    2001,
+    3001,
+    4001,
+    5001,
+    6001,
+    7001,
+    8001,
+    9001,
+    10001,
+    11001,
+    12001,
+    13001,
+    14001,
+    15001,
+    16001
+  ],
+  "return_std": [
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 7.1428800913917065
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 7.088158011782752
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 7.271686461887642
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 7.134007569382023
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 7.095191611225169
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 7.087339698363554
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 7.095660645774993
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 7.366427628097624
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 7.2274321857766335
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 7.099584213177557
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 7.053395210818688
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 7.031857791508585
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 7.1991099449862554
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 7.187445721534181
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 7.088270875185287
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 7.037231273732589
+    }
+  ],
+  "return_std_T": [
+    1,
+    1001,
+    2001,
+    3001,
+    4001,
+    5001,
+    6001,
+    7001,
+    8001,
+    9001,
+    10001,
+    11001,
+    12001,
+    13001,
+    14001,
+    15001,
+    16001
+  ],
+  "target_mean": [
+    -1.875,
+    -2.4375,
+    -1.375,
+    -2.5625,
+    -2.1875,
+    -1.5,
+    -1.25,
+    -2.75,
+    -2.375,
+    -3.125,
+    -2.8125,
+    -2.125,
+    -2.4375,
+    -2.3125,
+    -1.9375,
+    -1.75,
+    -3.625
+  ],
+  "target_mean_T": [
+    32,
+    1032,
+    2032,
+    3032,
+    4032,
+    5032,
+    6032,
+    7032,
+    8032,
+    9032,
+    10032,
+    11032,
+    12032,
+    13032,
+    14032,
+    15032,
+    16032
+  ],
+  "td_error_abs": [
+    6.82533597946167,
+    0.30388128757476807,
+    0.26788800954818726,
+    0.314139723777771,
+    0.04329415038228035,
+    0.281798779964447,
+    0.06518291682004929,
+    0.18330451846122742,
+    0.0430355928838253,
+    0.04919452220201492,
+    0.07733143866062164,
+    0.017831865698099136,
+    0.03782430291175842,
+    0.05565837398171425,
+    0.10295844078063965,
+    0.03268809989094734,
+    0.06220388785004616
+  ],
+  "td_error_abs_T": [
+    32,
+    1032,
+    2032,
+    3032,
+    4032,
+    5032,
+    6032,
+    7032,
+    8032,
+    9032,
+    10032,
+    11032,
+    12032,
+    13032,
+    14032,
+    15032,
+    16032
+  ],
+  "test_battle_won_mean": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "test_battle_won_mean_T": [
+    1,
+    1001,
+    2001,
+    3001,
+    4001,
+    5001,
+    6001,
+    7001,
+    8001,
+    9001,
+    10001,
+    11001,
+    12001,
+    13001,
+    14001,
+    15001,
+    16001
+  ],
+  "test_ep_length_mean": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "test_ep_length_mean_T": [
+    1,
+    1001,
+    2001,
+    3001,
+    4001,
+    5001,
+    6001,
+    7001,
+    8001,
+    9001,
+    10001,
+    11001,
+    12001,
+    13001,
+    14001,
+    15001,
+    16001
+  ],
+  "test_return_mean": [
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 8.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 8.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 8.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 8.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 8.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 8.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 8.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 8.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 8.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 8.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 8.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 8.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 8.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 8.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 8.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 8.0
+    }
+  ],
+  "test_return_mean_T": [
+    1,
+    1001,
+    2001,
+    3001,
+    4001,
+    5001,
+    6001,
+    7001,
+    8001,
+    9001,
+    10001,
+    11001,
+    12001,
+    13001,
+    14001,
+    15001,
+    16001
+  ],
+  "test_return_std": [
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    },
+    {
+      "dtype": "float64",
+      "py/object": "numpy.float64",
+      "value": 0.0
+    }
+  ],
+  "test_return_std_T": [
+    1,
+    1001,
+    2001,
+    3001,
+    4001,
+    5001,
+    6001,
+    7001,
+    8001,
+    9001,
+    10001,
+    11001,
+    12001,
+    13001,
+    14001,
+    15001,
+    16001
+  ]
+}
